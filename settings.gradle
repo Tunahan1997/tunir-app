@@ -1,0 +1,2 @@
+rootProject.name = "TunirApp"
+include ':app'
